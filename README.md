@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Shivaji Sonar 👨‍💻</h1>
 
 <p align="center">
-  BCA Student • Vide Coder • Web Developer • Tech Enthusiast • Rising Software Developer.
+  BCA Student • Vibe Coder • Web Developer • Tech Enthusiast • Rising Software Developer.
 </p>
 
 ---
